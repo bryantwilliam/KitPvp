@@ -1,0 +1,13 @@
+name: Kitpvp
+version: 2.0
+main: com.gmail.gogobebe2.kitpvp.Kitpvp
+description: A simple kit plugin coded by gogobebe2
+depend: [Vault]
+
+commands:
+    kit:
+        usage: /<command>
+        description: gives kit.
+    soup:
+        usage: /<command>
+        description: full remaining slots in a player's inventory with soup.
